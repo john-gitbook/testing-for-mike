@@ -1,8 +1,8 @@
 root: ./
 
 structure:
-  readme: README.md
-  summary: SUMMARY.md
+  readme: /docs/README.md
+  summary: /docs/SUMMARY.md
 
 redirects:
   these-pages-will-not-be-moved/this-page-will-be-redirected-before-the-move: docs/these-pages-will-be-moved/this-page-will-have-a-page-redirected-to-it.md
